@@ -12,4 +12,4 @@ This project is a Drum Kit application built using HTML, CSS, and JavaScript. It
 4.Responsive Design: Fully responsive design that works on all devices.
 
 # Demo
-Click here to play the Drum Kit:https://shreyasrivastava11.github.io/Drum-Kit/
+Click here to play the Drum Kit :https://shreyasrivastava11.github.io/Drum-Kit/
